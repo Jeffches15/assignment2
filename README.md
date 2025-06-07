@@ -1,3 +1,6 @@
+# Coverage Badge
+![Coverage Badge](https://github.com/{Jeffches15}{assignment2}/actions/workflows/{tests.yml}/badge.svg)
+
 # 📦 Project Setup
 
 ---
